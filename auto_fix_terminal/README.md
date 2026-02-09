@@ -1,0 +1,1 @@
+This license applies to skill definitions, rules, and documentation.
