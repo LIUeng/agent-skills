@@ -35,6 +35,8 @@ Agent Skills are a lightweight, open format for extending AI agent capabilities 
 
 ### Examples
 
+> Cursor IDE example
+
 - 每个技能应为一个包含 SKILL.md 文件的文件夹：
 
 ```toc
