@@ -1,5 +1,5 @@
 ---
-name: auto_fix_terminal
+name: auto-fix-terminal
 description: Automatically diagnose and fix common terminal command failures using proxy and safe recovery strategies.
 ---
 
